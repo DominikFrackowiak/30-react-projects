@@ -1,12 +1,12 @@
 import { useState } from 'react'
 
 import '../App.css'
-import ESignatureApp from './projects/01-e-signature-app/ESignatureApp'
+import LikeMyPhoto from './projects/03-like-my-photo/LikeMyPhoto'
 
 function App() {
 	return (
 		<div className='App'>
-			<ESignatureApp />
+			<LikeMyPhoto />
 		</div>
 	)
 }
