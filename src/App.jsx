@@ -1,12 +1,12 @@
 import { useState } from 'react'
 
 import '../App.css'
-import LikeMyPhoto from './projects/03-like-my-photo/LikeMyPhoto'
+import Testimonials from './projects/04-Testimonials/Testimonials'
 
 function App() {
 	return (
 		<div className='App'>
-			<LikeMyPhoto />
+			<Testimonials />
 		</div>
 	)
 }
